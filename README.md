@@ -25,7 +25,9 @@ This Python script automates the detection, measurement, and classification of c
 
 - **Data Export**
   - Save all crack properties (length, width, area, type, etc.) to an Excel file.
+This is the code used in research article: https://doi.org/10.21203/rs.3.rs-4389107/v1
 
+ 
 ## Requirements
 
 - Python 3.x
